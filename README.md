@@ -7,13 +7,23 @@
 - Languages and Tools that I am comfortable with:
   
   Frontend:
-  html css javascript reactjs adobe figma
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma)](https://skillicons.dev)
   
   Backend:
-  nodejs postman jest
+
+  [![My Skills](https://skillicons.dev/icons?i=postman,nodejs,jest)](https://skillicons.dev)
   
   Database:
-  mysql mongodb
+
+  [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
   
   Tools:
-  git azure googleAI
+
+  [![My Skills](https://skillicons.dev/icons?i=git,azure)](https://skillicons.dev)
+
+- Currently Learning:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,ubuntu)](https://skillicons.dev)
+
