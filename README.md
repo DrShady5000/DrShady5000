@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on projects to further increase my knowledge as a developer
 - 📫 You can reach me by email sahil.deo5000@gmail.com
 - Languages and Tools that I am comfortable with:
+  
   Frontend:
   html css javascript reactjs adobe figma
   
