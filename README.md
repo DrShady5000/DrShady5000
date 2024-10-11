@@ -25,5 +25,5 @@
 
 - Currently Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ubuntu)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=docker,ubuntu)](https://skillicons.dev)
 
